@@ -1,0 +1,22 @@
+[
+    {
+        "maSanPham":"SP01",
+        "TenSP":"Túi Da",
+        "SoLuong":1
+    },
+    {
+        "maSanPham":"SP02",
+        "TenSP":"Bóp",
+        "SoLuong":2
+    },
+    {
+        "maSanPham":"SP03",
+        "TenSP":"Vali to",
+        "SoLuong":3
+    },
+    {
+        "maSanPham":"SP04",
+        "TenSP":"Vali nhỏ",
+        "SoLuong":4
+    }
+]
